@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hydra210502/Nodejsbasic.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hydra210502/Nodejsbasic/issues"
+  },
+  "homepage": "https://github.com/hydra210502/Nodejsbasic#readme",
   "dependencies": {
     "express": "4.17.1"
   }
